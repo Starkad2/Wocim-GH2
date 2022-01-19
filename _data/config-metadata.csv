@@ -9,7 +9,5 @@ longitude, Longitude
 location,Location
 source,Source
 identifier,Source Identifier,,
-type,Type,
-format,Format,
 rights,Rights,
-suggestedcitation,Suggested Citation,,true
+suggestedcitation,Suggested Citation
