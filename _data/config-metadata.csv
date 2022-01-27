@@ -4,11 +4,11 @@ creator,Creator,
 date,DOB-DOD,
 description,Description,
 subject,Subjects,true
-latitude, Latitude
-longitude, Longitude
+latitude,Latitude
+longitude,Longitude
 location,Location
-publisher-digital, Digital Publisher,
+publisher-digital,Publisher,
 source,Source
 identifier,Source Identifier,,
 rights,Rights,
-collection,Suggested Citation,,true
+collection,Collection,
