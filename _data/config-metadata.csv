@@ -4,8 +4,8 @@ creator,Creator,
 date,DOB-DOD,
 description,Description,
 subject,Subjects,true
-latitude,
-longitude,
+latitude
+longitude
 location,Location
 publisher-digital,Publisher,
 source,Source
