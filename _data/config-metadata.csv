@@ -7,8 +7,8 @@ subject,Subjects,true
 latitude,Latitude
 longitude,Longitude
 location,Location
-publisher-digital,Publisher,
-source,Source
+publisher-digital,Digital Publisher,
+source,Source,,true
 identifier,Source Identifier,,
 rights,Rights,
 collection,Collection,
