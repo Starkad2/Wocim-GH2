@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-date,DOB-DOD,
+date,Date,
 description,Description,
 subject,Subjects,true
 latitude,Latitude
