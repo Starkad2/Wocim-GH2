@@ -1,8 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
-identifier, DOB-DOD,
-date,Date,
+dob-dod, DOB-DOD,
 description,Description,
 subject,Subjects,true
 latitude,Latitude
@@ -10,6 +9,6 @@ longitude,Longitude
 location,Location
 publisher-digital,Digital Publisher,
 source,Source,,true
-identifier,Source Identifier,,
+date, Date,
 rights,Rights,
 collection,Collection,
