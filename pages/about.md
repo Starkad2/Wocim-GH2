@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://i.pinimg.com/originals/71/2e/92/712e927b75fc12bb0fd05eb16fe762d3.jpg" %}
+{% include feature/jumbotron.html objectid="https://www.pinterest.com/pin/291678513377969682" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
