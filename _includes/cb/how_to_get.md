@@ -8,14 +8,14 @@
 {% capture audiosampleid %}{{audiosample.objectid | default: "https://www.lib.uidaho.edu/digital/mp3s/Clouds.mp3"}}{% endcapture %}
 
 
-## About the About Page
+## How to get Involved
 
-We want to make About pages exciting, and easy to build. 
+The mission of the Historical Research Center is to collect, preserve, and provide access to materials related to the history of UAMS and history of the health sciences in Arkansas.
 
-The CollectionBuilder about page features a narrowed column with its own (optional) menu, featured content, and some technical information. 
+We seek additional materials for its collection that document the history of the health sciences in Arkansas.
 
-To build one, a user writes in [Markdown](https://guides.github.com/features/mastering-markdown/) and includes  content from the site, as well as typical [Bootstrap](https://getbootstrap.com/) features like cards and modals, using code snippets like those detailed below. 
-We hope this makes it easier for site builders to develop the collection AND add interesting and engaging contextual information. 
+If you would like to contribute an image to the Arkansas Women of Color in Medicine Project, please contact Geoffery Stark at (501) 686-7737 or at glstark@uams.edu.
+If you have materials you wish to donate, please contact Tim Nutt at (501) 686-6735 or tgnutt@uams.edu.
 
 Each included file has several options, which are documented in the files themselves and briefly documented below. We've given the content widths of 25% and 50% to save space, but you can feature the entire image or document.
 
