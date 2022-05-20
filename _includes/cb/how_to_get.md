@@ -3,12 +3,15 @@
 
 ## How to get Involved
 
-The mission of the Historical Research Center is to collect, preserve, and provide access to materials related to the history of UAMS and history of the health sciences in Arkansas.
+Thank you for your interest in the impactful accomplishements that Women of Color have had on the medical profession both in Arkansas and abroad.
 
-We seek additional materials for its collection that document the history of the health sciences in Arkansas.
+It is the mission of the Historical Research Center to collect, preserve, and provide access to materials related to the history of UAMS and history of the health sciences in Arkansas.
 
-If you would like to contribute an image to the Arkansas Women of Color in Medicine Project, please contact Geoffery Stark at (501) 686-7737 or at glstark@uams.edu.
-If you have materials you wish to donate, please contact Tim Nutt at (501) 686-6735 or tgnutt@uams.edu.
+As such, we seek additional materials for its collection as well as artifacts that will help us document and share the state's rich history as it pertains to medical science.
 
+If you would like to contribute an image, document, or AV file to the Arkansas Women of Color in Medicine Project, please contact Geoffery Stark at (501) 686-7737 or at glstark@uams.edu.
 
+If you have materials that you wish to donate to the Historical Research Center, please contact Tim Nutt at (501) 686-6735 or tgnutt@uams.edu.
+
+We will be pleased to hear from you and are grateful for your patronage.
 
