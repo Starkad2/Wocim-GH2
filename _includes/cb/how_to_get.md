@@ -3,7 +3,7 @@
 
 ## How to get Involved
 
-Thank you for your interest in the accomplishments of Women of Color in the medical profession both in Arkansas and as well as Arkansians abroad.
+Thank you for your interest in the accomplishments of Women of Color in the medical profession both in Arkansas as well as Arkansians abroad.
 
 It is the mission of the Historical Research Center to collect, preserve, and provide access to materials related to the history of UAMS and history of the health sciences in Arkansas.
 
