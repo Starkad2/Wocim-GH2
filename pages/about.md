@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+The focus of the Arkansas Women of Color in Medicine Project is to celebrate and highlight the accomplishemnts of marginalized women working within the medical profession to a wider community.
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
