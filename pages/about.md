@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://i.pinimg.com/originals/cb/78/5d/cb785dde2b1c7ff2e910df160476d3a5.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;How to get involved" %}
+{% include feature/nav-menu.html sections="About the Collection;How to get Involved" %}
 
 ## About the Collection
 
