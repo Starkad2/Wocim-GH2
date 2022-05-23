@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-The focus of the Arkansas Women of Color in Medicine Project is to celebrate and highlight the accomplishemnts of marginalized women working within the medical profession to a wider community.
+The focus of the Arkansas Women of Color in Medicine Project is to celebrate the accomplishemnts of marginalized women working within the medical profession and to bring awareness of their amazing stories to a wider community.
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
