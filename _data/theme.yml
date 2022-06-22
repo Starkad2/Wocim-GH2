@@ -28,6 +28,12 @@ subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
 ##########
+# INSTITUTIONS PAGE
+institutions-fields: institutions # set the field
+institutions-min: 1
+institutions-stopwords:
+
+##########
 # LOCATIONS PAGE
 #
 locations-fields: location # set the field to be featured in the cloud
