@@ -2,7 +2,7 @@
 title: Institutions
 layout: cloud
 permalink: /institutions.html
-# Default locations page is configured in "_data/theme.yml"
+# Default institutions page is configured in "_data/theme.yml"
 # leave cloud-fields as "site.data.theme.Institutions-fields"
 # a cloud visualization will be added below the content in this file
 cloud-fields: site.data.theme.Institutions-fields
