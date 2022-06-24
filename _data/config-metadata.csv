@@ -4,6 +4,7 @@ creator,Creator,
 dob-dod,DOB-DOD,
 description,Description,
 subject,Subjects,true
+institutions,Institutions,true
 latitude,Latitude
 longitude,Longitude
 location,Location
