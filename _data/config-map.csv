@@ -2,4 +2,5 @@ field,display_name,search
 date,Date,true
 creator,Creator,true
 subject,Subjects,true
+institutions,Institutions,true
 location,Location,true
