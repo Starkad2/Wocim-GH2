@@ -4,4 +4,5 @@ date,true,true
 creator,true,false
 description,true,true
 subject,true,true
+institutions,true,true
 location,true,false
