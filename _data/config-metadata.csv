@@ -7,7 +7,7 @@ subject,Subjects,true
 institutions,Institutions,true
 latitude,Latitude
 longitude,Longitude
-location,Location
+location,Location,true
 publisher-digital, Digital Publisher,
 source,Source,,true
 date, Date of Item,
