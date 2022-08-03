@@ -13,3 +13,4 @@ source,Source,,true
 date, Date of Item,
 rights,Rights,
 collection,Collection,
+relation, Related Link,,true
