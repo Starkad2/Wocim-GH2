@@ -9,7 +9,7 @@ latitude,Latitude
 longitude,Longitude
 location,Location,true
 publisher-digital, Digital Publisher,
-source,Source,,true
+source,Source,
 date, Date of Item,
 rights,Rights,
 collection,Collection,
