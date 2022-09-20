@@ -4,10 +4,10 @@ creator,Creator,
 dob-dod,DOB-DOD,
 description,Description,
 subject,Subjects,true
+location,Location,true
 institutions,Institutions,true
 latitude,Latitude
 longitude,Longitude
-location,Location,true
 publisher-digital, Digital Publisher,
 source,Source,
 date, Date of Item,
