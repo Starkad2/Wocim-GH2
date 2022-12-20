@@ -14,16 +14,11 @@ credits: true
 
 ## About the Collection
 
-The goal of this project is to increase visibility and representation of Arkansas women of color in medicine, as well as to provide support and encouragement to those who may feel underrepresented or disadvantaged in the medical field.  Included are images, documents, links to video and profiles of successful women of color who are either Arkansas natives or have been medical practitioners in the State.
+The goal of this project is to increase visibility and representation of Arkansas women of color in medicine, as well as to provide support and encouragement to those who may feel underrepresented or disadvantaged in the medical field.  Included are images, documents, video and profiles of successful women who are either Arkansas natives or have been medical practitioners in the State.
 
-The images from our digital collections are displayed for educational and personal research use. If you are the copyright owner of material displayed in our project and believe that we have exceeded the fair use allowed by copyright law, or have not given proper credit, please let us know.
+## Copyright
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+The Arkansas Women of Color in Medicine project is for educational and personal research use. If you are the copyright owner of material displayed in our project and believe that we have exceeded the fair use allowed by copyright law, or have not given proper credit, please contact us.
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/how_to_get.md %} 
