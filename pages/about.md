@@ -14,7 +14,9 @@ credits: true
 
 ## About the Collection
 
-The focus of the Arkansas Women of Color in Medicine Project is to celebrate the accomplishments of marginalized women working within the medical profession and to bring awareness of their amazing stories to a wider community.
+The goal of this project is to increase visibility and representation of Arkansas women of color in medicine, as well as to provide support and encouragement to those who may feel underrepresented or disadvantaged in the medical field.  Included are images, documents, links to video and profiles of successful women of color who are either Arkansas natives or have been medical practitioners in the State.
+The images from our digital collections are displayed for educational and personal research use. If you are the copyright owner of material displayed in our project and believe that we have exceeded the fair use allowed by copyright law, or have not given proper credit, please let us know.
+
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
