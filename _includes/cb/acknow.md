@@ -1,6 +1,6 @@
 
 
-## Acknowledgement
+## Acknowledgements
 
 The Historical Research Center team is composed of Tim Nutt, Suzanne Easley, Logan Whittington, April Hughes, and Geoffery Stark.
 
