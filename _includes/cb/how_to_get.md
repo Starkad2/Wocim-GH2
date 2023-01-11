@@ -11,7 +11,7 @@ As such, we seek additional materials for its collection as well as artifacts th
 
 We support engagement and partnerships with UAMS Campus, Arkansas repositories, and diverse communities.
 
-If you would like to contribute an image, document, or audio/video file to the Arkansas Women of Color in Medicine Project, please contact Geoffery Stark at (501) 686-7737 or at glstark@uams.edu.
+The Arkansas Women of Color in Medicine database is an ongoing digital project. If you would like to contribute an image, document, or audio/video file to be included in this project, please contact Geoffery Stark at (501) 686-7737 or at glstark@uams.edu.
 
 If you have materials that you wish to donate to the Historical Research Center, please contact Tim Nutt at (501) 686-6735 or tgnutt@uams.edu.
 
