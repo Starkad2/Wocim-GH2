@@ -13,7 +13,7 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;How to get Involved;Acknowledgements" %}
 
 ## About the Collection
-The Arkansas Women of Color in Medicine is an educational project to increase the visibility and representation of marginalized women in the field of medicine.
+The Pioneers of Diversity: Arkansas Women of Color in Public Health and Medicine is an educational project to increase the visibility and representation of marginalized women in the field of medicine.
 
 It is our goal that people can learn about the diverse backgrounds, experiences, and achievements of women of color in Arkansas and gain a better understanding of their role in the history of medicine.
 
