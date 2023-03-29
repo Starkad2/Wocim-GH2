@@ -15,7 +15,7 @@ credits: true
 ## About the Collection
 The *Pioneers of Diversity: Arkansas Women of Color in Public Health and Medicine* is an educational project to increase the visibility and representation of marginalized women in the field of medicine.
 
-Its is our goal that people can learn about the diverse backgrounds, experiences, and achievements of women of color in Arkansas and gain a better understanding of their role in the history of Public Health.
+It is our goal that people can learn about the diverse backgrounds, experiences, and achievements of women of color in Arkansas and gain a better understanding of their role in the history of Public Health.
 
 We hope that the project encourages those who may feel underrepresented or disadvantaged in the medical field by relating both the challenges and triumphs women of color have encountered pursuing a medical profession.
 
